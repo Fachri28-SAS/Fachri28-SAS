@@ -166,8 +166,8 @@
 ### Contact
 
 <a href="mailto:muhammadfachri261108@gmail.com"><img src="https://img.shields.io/badge/Email-7928CA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/m_fachrii23"><img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/muhammad-fachri-sunarya"><img src="https://img.shields.io/badge/LinkedIn-0070F3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/m_fachrii26"><img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-fachri-sunarya-299127428/"><img src="https://img.shields.io/badge/LinkedIn-0070F3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
