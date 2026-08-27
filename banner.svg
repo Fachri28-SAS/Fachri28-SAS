@@ -1,0 +1,110 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="spacebg" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#050414"/>
+    <stop offset="55%" stop-color="#0d0a2b"/>
+    <stop offset="100%" stop-color="#160f3d"/>
+  </linearGradient>
+  <filter id="nebblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="25"/></filter>
+  <filter id="softglow2" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="bclip2"><rect width="1200" height="360" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#bclip2)">
+<rect width="1200" height="360" fill="url(#spacebg)"/>
+
+<g opacity="0.22" filter="url(#nebblur)">
+  <ellipse cx="180" cy="260" rx="180" ry="70" fill="#7b5cff"/>
+  <ellipse cx="980" cy="270" rx="200" ry="75" fill="#3fa9f5"/>
+  <ellipse cx="600" cy="290" rx="150" ry="50" fill="#ff6fa5"/>
+</g>
+
+<circle cx="120" cy="40" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/></circle><circle cx="260" cy="25" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/></circle><circle cx="430" cy="60" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/></circle><circle cx="520" cy="20" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/></circle><circle cx="700" cy="45" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/></circle><circle cx="770" cy="70" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/></circle><circle cx="60" cy="100" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/></circle><circle cx="330" cy="90" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/></circle><circle cx="610" cy="95" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/></circle><circle cx="870" cy="35" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/></circle><circle cx="940" cy="80" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/></circle><circle cx="1010" cy="50" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/></circle><circle cx="180" cy="80" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/></circle><circle cx="390" cy="30" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/></circle><circle cx="760" cy="25" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/></circle><circle cx="1140" cy="60" r="1.6" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/></circle>
+<g opacity="0.85">
+      <path d="M 200 47 L 202 53 L 208 55 L 202 57 L 200 63 L 198 57 L 192 55 L 198 53 Z" fill="#a6c8ff"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 200 55; 360 200 55" dur="10s" repeatCount="indefinite"/>
+    </g><g opacity="0.85">
+      <path d="M 660 22 L 662 28 L 668 30 L 662 32 L 660 38 L 658 32 L 652 30 L 658 28 Z" fill="#a6c8ff"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 660 30; 360 660 30" dur="10s" repeatCount="indefinite"/>
+    </g><g opacity="0.85">
+      <path d="M 900 52 L 902 58 L 908 60 L 902 62 L 900 68 L 898 62 L 892 60 L 898 58 Z" fill="#a6c8ff"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 900 60; 360 900 60" dur="10s" repeatCount="indefinite"/>
+    </g><g opacity="0.85">
+      <path d="M 1080 82 L 1082 88 L 1088 90 L 1082 92 L 1080 98 L 1078 92 L 1072 90 L 1078 88 Z" fill="#a6c8ff"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 1080 90; 360 1080 90" dur="10s" repeatCount="indefinite"/>
+    </g>
+
+<g>
+  <line x1="0" y1="0" x2="60" y2="18" stroke="#ffffff" stroke-width="2" opacity="0.9"/>
+  <circle cx="60" cy="18" r="2.5" fill="#ffffff"/>
+  <animateTransform attributeName="transform" type="translate" values="-80 -20; 900 220" dur="5s" begin="1s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="1s" repeatCount="indefinite"/>
+</g>
+
+
+<g>
+  <circle cx="1075" cy="75" r="46" fill="#7b5cff"/>
+  <circle cx="1060" cy="60" r="46" fill="#5a3fd6" opacity="0.55"/>
+  <ellipse cx="1075" cy="75" rx="78" ry="14" fill="none" stroke="#c9b6ff" stroke-width="3" opacity="0.75" transform="rotate(-18 1075 75)"/>
+  <circle cx="1058" cy="58" r="6" fill="#9a82ff" opacity="0.6"/>
+  <circle cx="1090" cy="88" r="8" fill="#9a82ff" opacity="0.5"/>
+</g>
+
+<circle cx="70" cy="60" r="20" fill="#ff6f91" opacity="0.9"/>
+<circle cx="62" cy="52" r="20" fill="#ff9ab8" opacity="0.4"/>
+
+
+<g>
+  <g fill="#c9c3e0">
+    <rect x="-4" y="-3" width="8" height="6" rx="1"/>
+    <rect x="-14" y="-1.5" width="9" height="3" fill="#3fa9f5"/>
+    <rect x="5" y="-1.5" width="9" height="3" fill="#3fa9f5"/>
+    <line x1="0" y1="-3" x2="0" y2="-10" stroke="#c9c3e0" stroke-width="1.4"/>
+  </g>
+  <animateTransform attributeName="transform" type="translate" values="1250 40; -60 130; 1250 40" keyTimes="0;0.5;1" dur="16s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" additive="sum" type="rotate" values="0;360" dur="6s" repeatCount="indefinite"/>
+</g>
+
+
+<rect x="1055" y="150" width="80" height="26" rx="13" fill="#3fa9f5"/>
+<text x="1095" y="167" font-family="Verdana, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">F</text>
+
+<text x="600" y="150" font-family="'Segoe UI', Verdana, sans-serif" font-size="68" font-weight="700" fill="#ffffff" text-anchor="middle" filter="url(#softglow2)">FACHRI</text>
+<text x="600" y="185" font-family="Verdana, sans-serif" font-size="16" letter-spacing="3" fill="#9ecbff" text-anchor="middle">SOFTWARE ENGINEER &#183; WEB &amp; MOBILE DEVELOPER</text>
+<text x="600" y="212" font-family="Verdana, sans-serif" font-size="13" fill="#c9c3e0" text-anchor="middle" opacity="0.85">Muhammad Fachri Sunarya &#183; XII RPL, SMK Negeri 1 Cimahi</text>
+
+
+    <g>
+      <rect x="359.0" y="250" width="150" height="40" rx="20.0" fill="#0e0e22" stroke="#3a3a6a" stroke-width="1.3"/>
+      <circle cx="381.0" cy="270.0" r="5" fill="#61dafb"/>
+      <text x="397.0" y="275.0" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff" letter-spacing="1">REACT</text>
+    </g>
+    <g>
+      <rect x="525.0" y="250" width="150" height="40" rx="20.0" fill="#0e0e22" stroke="#3a3a6a" stroke-width="1.3"/>
+      <circle cx="547.0" cy="270.0" r="5" fill="#ff2d20"/>
+      <text x="563.0" y="275.0" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff" letter-spacing="1">LARAVEL</text>
+    </g>
+    <g>
+      <rect x="691.0" y="250" width="150" height="40" rx="20.0" fill="#0e0e22" stroke="#3a3a6a" stroke-width="1.3"/>
+      <circle cx="713.0" cy="270.0" r="5" fill="#7f52ff"/>
+      <text x="729.0" y="275.0" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff" letter-spacing="1">KOTLIN</text>
+    </g>
+    <g>
+      <rect x="359.0" y="304" width="150" height="40" rx="20.0" fill="#0e0e22" stroke="#3a3a6a" stroke-width="1.3"/>
+      <circle cx="381.0" cy="324.0" r="5" fill="#ffca28"/>
+      <text x="397.0" y="329.0" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff" letter-spacing="1">FIREBASE</text>
+    </g>
+    <g>
+      <rect x="525.0" y="304" width="150" height="40" rx="20.0" fill="#0e0e22" stroke="#3a3a6a" stroke-width="1.3"/>
+      <circle cx="547.0" cy="324.0" r="5" fill="#f7df1e"/>
+      <text x="563.0" y="329.0" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff" letter-spacing="1">JAVASCRIPT</text>
+    </g>
+    <g>
+      <rect x="691.0" y="304" width="150" height="40" rx="20.0" fill="#0e0e22" stroke="#3a3a6a" stroke-width="1.3"/>
+      <circle cx="713.0" cy="324.0" r="5" fill="#4479a1"/>
+      <text x="729.0" y="329.0" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff" letter-spacing="1">MYSQL</text>
+    </g>
+</g>
+</svg>
