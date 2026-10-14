@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
@@ -89,18 +89,18 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats-two-xi-im8609rnq5.vercel.app/api?username=Fachri28-SAS&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF0080&icon_color=7928CA&text_color=c9d1d9" height="165em"/>
-<img src="https://github-readme-stats-two-xi-im8609rnq5.vercel.app/api/top-langs/?username=Fachri28-SAS&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF0080&text_color=c9d1d9" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Fachri28-SAS&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF0080&icon_color=7928CA&text_color=c9d1d9" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fachri28-SAS&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF0080&text_color=c9d1d9" height="165em"/>
 
 <img src="https://streak-stats.demolab.com/?user=Fachri28-SAS&theme=radical&hide_border=true&background=0D0221&ring=FF0080&fire=7928CA&currStreakLabel=FF0080"/>
 
 ### Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fachri28-SAS&theme=react-dark&hide_border=true&bg_color=0D0221&color=FF0080&line=7928CA&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph-two.vercel.app/graph?username=Fachri28-SAS&theme=react-dark&hide_border=true&bg_color=0D0221&color=FF0080&line=7928CA&point=ffffff" width="100%"/>
 
 </div>
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### Proyek Aktif & Unggulan
 
@@ -173,7 +173,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### Contact
 
